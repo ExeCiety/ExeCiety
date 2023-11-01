@@ -32,7 +32,7 @@ I am a hardworking, dedicated individual with a high level of curiosity. I enjoy
   - Developed a service center platform for the company, my position in this project is Team Lead, Backend Developer & Frontend Developer
   - Developed a superapps platform for the company, my position in this project is Backend Developer
     
-### Pendidikan Saya
+### My Education
 - Widyatama University - Information Systems - 2021-Present
 
 ### Contact Me
@@ -46,3 +46,11 @@ I am a hardworking, dedicated individual with a high level of curiosity. I enjoy
 - Region Service: https://github.com/ExeCiety/region-service (Golang, Beego)
 - Nestjs Store Service Example: https://github.com/ExeCiety/nestjs-store-service-example (Typescript, Nestjs)
 - Sinoah: https://github.com/ExeCiety/sinoah (PHP, Laravel)
+
+### Github Public Statistic
+<p align="left">
+<a href="https://github.com/alvinindra">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ExeCiety&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ExeCiety&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
