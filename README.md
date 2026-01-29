@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Moch Sultan Majid, a Backend Engineer with 4 years of experience in web development. I have a strong interest in programming and software architecture. I'm always looking for ways to learn and grow, and I enjoy sharing my knowledge with others.
+My name is Moch Sultan Majid, a Backend Engineer with 6 years of experience in web development. I have a strong interest in programming and software architecture. I'm always looking for ways to learn and grow, and I enjoy sharing my knowledge with others.
 
 I am a hardworking, dedicated individual with a high level of curiosity. I enjoy solving problems and finding creative solutions. I also like working collaboratively with others to build something great.
 
@@ -12,7 +12,7 @@ I am a hardworking, dedicated individual with a high level of curiosity. I enjoy
   - Cloud computing: AWS
   - DevOps: Docker, CI/CD, Jenkins
 - Frontend Technical Skills:
-  - Frameworks: Vue Js, Nuxt, React Js
+  - Frameworks: Vue, Nuxt, React, Next
 
 - Non-Technical Skills:
   - Communication: Good verbal and written communication skills
@@ -33,19 +33,11 @@ I am a hardworking, dedicated individual with a high level of curiosity. I enjoy
   - Developed a superapps platform for the company, my position in this project is Backend Developer
     
 ### My Education
-- Widyatama University - Information Systems - 2021-Present
+- Widyatama University - Information Systems - 2021-2025
 
 ### Contact Me
 - Email: sultan.majid213@gmail.com
 - LinkedIn: https://www.linkedin.com/in/sultan-majid-47a389158/
-
-### Starred Repo:
-- Portofolio: https://github.com/ExeCiety/my-portfolio (React Js, Next)
-- Go Fiber Todo List: https://github.com/ExeCiety/go-fiber-todo-list (Golang, Fiber)
-- Book Rest API: https://github.com/ExeCiety/book-rest-api (Typescript, Express)
-- Region Service: https://github.com/ExeCiety/region-service (Golang, Beego)
-- Nestjs Store Service Example: https://github.com/ExeCiety/nestjs-store-service-example (Typescript, Nestjs)
-- Sinoah: https://github.com/ExeCiety/sinoah (PHP, Laravel)
 
 ### Github Public Statistic
 <p align="left">
