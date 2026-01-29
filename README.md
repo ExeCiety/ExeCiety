@@ -49,7 +49,7 @@ I am a hardworking, dedicated individual with a high level of curiosity. I enjoy
 
 ### Github Public Statistic
 <p align="left">
-<a href="https://github.com/alvinindra">
+<a href="https://github.com/ExeCiety">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ExeCiety&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ExeCiety&layout=compact&langs_count=8&theme=algolia"/>
 </a>
